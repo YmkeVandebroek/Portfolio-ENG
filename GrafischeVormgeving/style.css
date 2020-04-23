@@ -103,6 +103,16 @@ video{
 	margin-bottom: 1rem;
 }
 
+.zie{
+	background-color: black;
+	display: block;
+	color: white;
+	padding: 1rem;
+	font-size: 1.2rem;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+
 
 /*FOOTER___________________________________________________________________________________________*/
 footer{
